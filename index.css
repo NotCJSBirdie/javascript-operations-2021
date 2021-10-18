@@ -1,0 +1,20 @@
+/* This is an external CSS File */
+body {
+  margin: 0;
+}
+
+.div1 {
+  background-color: aqua;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.div2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: grey;
+}
